@@ -1,4 +1,4 @@
-print("Please enter the CP")
+print("Please enter the Key to access!")
 x=str(input())
 e64 = ""
 import base64
