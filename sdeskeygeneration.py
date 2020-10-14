@@ -7,6 +7,7 @@ if(pt==b'tata'):
     print("Access granted welocome to RESYST")
 else:
     print("Sorry your access has denied")
+    exit(0)
 '''S-des key generation'''
 
 #---------------------------------------------------------------------------------------------
