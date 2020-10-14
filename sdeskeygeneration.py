@@ -4,7 +4,7 @@ e64 = ""
 import base64
 pt = base64.b64decode(x)
 if(pt==b'tata'):
-    print("Access granted welocome to RESYST")
+    print("Access granted welocome")
 else:
     print("Sorry your access has denied")
     exit(0)
