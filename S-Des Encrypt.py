@@ -7,6 +7,7 @@ if(pt==b'tata'):
     print("Access granted welocome to RESYST")
 else:
     print("Sorry your access has denied")
+    exit(0)
 '''S-Des Encryption'''
 import numpy as exor
 from numpy import *
