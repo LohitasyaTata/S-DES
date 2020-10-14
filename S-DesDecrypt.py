@@ -7,6 +7,7 @@ if(pt==b'tata'):
     print("Access granted welocome to RESYST")
 else:
     print("Sorry your access has denied")
+    exit(0)
 from numpy import *
 k1=[1,0,1,0,0,1,0,0]#Keys K1 
 k2=[0,1,0,0,0,0,1,1]# Key k2
